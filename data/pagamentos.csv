@@ -1,0 +1,9 @@
+id_pagamento,id_pedido,status_pagamento
+1,1,Pago
+2,2,Pendente
+3,3,Pago
+4,4,Pago
+5,5,Pendente
+6,6,Pago
+7,7,Pendente
+8,8,Pago
