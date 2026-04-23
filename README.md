@@ -17,11 +17,10 @@ Identificar clientes ativos, clientes sem pedidos, status de pagamentos e padrõ
 ---
 
 ## 📊 Análises realizadas
-- Clientes que realizaram pedidos  
-- Clientes que não possuem pedidos  
-- Pedidos com e sem pagamento  
-- Classificação de valor de pedidos  
-
+- Cruzamento de clientes, pedidos e pagamentos  
+- Identificação de clientes com e sem pedidos  
+- Classificação de pedidos por valor  
+- Análise de status de pagamento  
 ---
 
 ## 💡 Insights de negócio
